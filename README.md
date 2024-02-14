@@ -14,7 +14,7 @@
 
 Пример выполнения:
 
-![image1]()
+![image1](https://github.com/cookieru/phppromod11les7/blob/main/images/191404.png?raw=true)
 
 ## Задание 2. Таблица сравнения<
 
@@ -24,4 +24,4 @@
 
 Пример выполнения:
 
-![image2]()
+![image2](https://github.com/cookieru/phppromod11les7/blob/main/images/191519.png?raw=true)
